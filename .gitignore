@@ -1,5 +1,6 @@
 .vscode/**
 Preprocessing/__pycache__/**
 __pycache__/**
-Preprocessed_datasets/**
+Preprocessed_datasets/BRUSH-inter3--.csv
+Preprocessed_datasets/multi_user-inter3-28-21.csv
 plot.py
