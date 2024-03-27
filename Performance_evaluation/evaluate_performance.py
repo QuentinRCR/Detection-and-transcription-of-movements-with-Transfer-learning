@@ -79,7 +79,7 @@ def main():
         predicated_value = chr(argmax(model.predict(image))+97)
 
     # print inferred letter
-    print(predicated_value)
+    print("Predicted value: ",predicated_value)
 
 main() #run the encapsulated program to get memory data
 
